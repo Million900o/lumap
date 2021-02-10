@@ -1,5 +1,5 @@
 class Lu extends Map {
-  cute() {
+  static cute() {
     return true;
   }
 }
