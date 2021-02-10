@@ -1,0 +1,21 @@
+{
+  "name": "lumap",
+  "version": "1.0.0",
+  "description": "yes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vierofernando/lumap.git"
+  },
+  "keywords": ["lu", "map", "is", "cute"],
+  "dependencies": {},
+  "author": "vierofernando",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vierofernando/lumap/issues"
+  },
+  "homepage": "https://github.com/vierofernando/lumap#readme"
+}
